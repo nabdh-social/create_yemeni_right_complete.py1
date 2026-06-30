@@ -383,7 +383,7 @@ class HomeTab extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Text(
-                    'مرحباً بك',
+                    'وداعاً  بك'
                     style: TextStyle(
                       color: Colors.white,
                       fontSize: 24,
